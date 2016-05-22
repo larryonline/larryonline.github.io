@@ -6,8 +6,8 @@ title: About
 ## 张振楠  ##
 男, 1984.10, 计算机科学与技术 专科
 
-- 十年编码经验, Work as a **HACKER**. 
-- 跨 Web / Android / iOS 多端编码.
+- 十年编码经验
+- 跨 Web / Android / iOS 多端编码
 - 担任过 **10,000,000+ DAU** 项目的前端主程
 - 开发/编译/测试/部署 工具链搭建能力. Github > CI( Build > UnitTest > FeatureTest > Archive) > AutoDeployment
 - 2 - 10 人团队组织管理能力. 在多个团队中实践 OKRs / 敏捷开发 方法论
