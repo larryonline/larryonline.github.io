@@ -51,7 +51,7 @@ title: About
 
 
 - <h4> 前端主程 @ [北京极效网络科技有限公司][SE] <sup>(创业团队)</sup> </h4>
-    - OKRs + Agile Develement
+    - OKRs + Agile Development
     - International cooperation (work with American, Russian and Chinese)
     - All conversations with english
     - Work as a **HACKER**
@@ -70,18 +70,18 @@ title: About
     - 负责为团队提供技术及实现方案
 
 >
-- ##### Palm360 Airport iOS SDK v1.0.0 <sup>(2014-2 ~ 2014-7)</sup>
+- ##### Palm360 Airport iOS SDK v1.0.0 <sup>(2013-9 ~ 2013-12)</sup>
     - 基于Facade模式实现的室内地图 SDK(Objective-C)
-    - 在**项目进度&需求严重失控**的情况下被临危受命担任项目经理的角色，结束了需求无序/无限增长，理顺排期，整合前后端开发资源，并在30天内达到上线状态。
+    - 在**项目进度&需求严重失控**的情况下被临危受命担任项目经理的角色，结束了需求无序/无限增长，理顺排期，整合前后端开发资源，并在25天内达到上线状态。
     - 地图离线包的版本管理 + 缓存策略
     - SDK 授权+验证 策略
     - 编写SDK接入指南, 使得第三方APP只需要三个步骤 + 一行代码就可以使用该SDK的所有功能
 
 >
-- ##### [掌上机场 v1.0.0](https://itunes.apple.com/cn/app/zhang-shang-ji-chang/id768743884?mt=8) <sup>(2013-11 ~ 2014-4)</sup>
+- ##### [掌上机场 v1.0.0](https://itunes.apple.com/cn/app/zhang-shang-ji-chang/id768743884?mt=8) <sup>(2013-11 ~ 2013-12)</sup>
 
 >
-- ##### [机场达人 v1.x ~ v2.x](https://itunes.apple.com/cn/app/zhang-shang-ji-chang/id768743884?mt=8) <sup>(2013-8 ~ 2013-11)</sup>
+- ##### [机场达人 v2.0](https://itunes.apple.com/cn/app/zhang-shang-ji-chang/id768743884?mt=8) <sup>(2013-8 ~ 2013-11)</sup>
 
 - <h4> 前端主程 @ [热酷](http://www.rekoo.com) </h4>
     - 主导千万DAU级别项目的前端开发工作
