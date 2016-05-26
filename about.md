@@ -116,7 +116,7 @@ title: About
 
 ---
 #### 开源项目
-- [zValidator](https://github.com/larryonline/zValidator) <iframe src="https://ghbtns.com/github-btn.html?user=larryonline&repo=zValidator&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+- [zValidator2](https://github.com/larryonline/zValidator2) <iframe src="https://ghbtns.com/github-btn.html?user=larryonline&repo=zValidator2&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
    *iOS(Objective-C)* 链式语法的验证工具包
 - [ZLPhotoLib](https://github.com/MakeZL/ZLPhotoLib) <iframe src="https://ghbtns.com/github-btn.html?user=MakeZL&repo=ZLPhotoLib&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
    *iOS(Objective-C)* 继承图片多选/图片浏览器/相机连拍的一套图片库
