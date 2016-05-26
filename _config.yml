@@ -15,9 +15,9 @@ links:
   - name:         GitHub
     url:          http://github.com/larryonline
     external:     true
-#  - name:         LinkedIn
-#    url:          https://www.linkedin.com/in/zhennan-zhang-38402936
-#    external:     true
+ - name:         LinkedIn
+   url:          https://cn.linkedin.com/in/larryonline
+   external:     true
 highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet
