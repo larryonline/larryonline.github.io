@@ -120,6 +120,9 @@ title: About
    *iOS(Objective-C)* 链式语法的验证工具包
 - [ZLPhotoLib](https://github.com/MakeZL/ZLPhotoLib) <iframe src="https://ghbtns.com/github-btn.html?user=MakeZL&repo=ZLPhotoLib&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
    *iOS(Objective-C)* 继承图片多选/图片浏览器/相机连拍的一套图片库
+   
+- [zpider](https://github.com/larryonline/zpider) nodejs 版本的爬虫工具
+- [uri-convertor](http://github.com/larryonline/uri-convertor) nodejs 版本的 迅雷/快车/QQ旋风/普通http 链接转换工具.
 
 ---
 #### 教育水平
